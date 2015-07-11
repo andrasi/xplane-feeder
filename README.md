@@ -1,2 +1,2 @@
 # xplane-feeder
-A small Golang app which feed flight data from an influxdb database into X-Plane Simulator
+A small Golang app which feeds flight data from an influxdb database into X-Plane Simulator
